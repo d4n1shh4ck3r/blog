@@ -21,8 +21,7 @@ footer-links:
   email: c0nn3ctd4n1shh4ck3r@protonmail.com
   facebook: https://www.facebook.com/d4n1shh4ck3r/
   flickr:
-  github:  d4n1shh4ck3r /
-jekyll-now 
+  github:  d4n1shh4ck3r/d4n1shh4ck3r
   instagram: https://www.instagram.com/d4n1shh4ck3r/
   linkedin: https://www.linkedin.com/in/d4n1shh4ck3r/
   pinterest:
@@ -42,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://d4n1shh4ck3r.blogspot.com/
+url: http://d4n1shh4ck3r.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
